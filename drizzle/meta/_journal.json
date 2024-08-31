@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1724311350170,
+      "tag": "0000_burly_omega_red",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1724321364532,
+      "tag": "0001_small_frank_castle",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1724688508339,
+      "tag": "0002_sour_dragon_man",
+      "breakpoints": true
+    }
+  ]
+}
